@@ -6,4 +6,4 @@
 
 ![iRimpo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=iRimpo&theme=prussian&hide_border=true)
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRimpo&theme=prussian&show_icons=true&hide_border=true&layout=compact" width="600px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRimpo&theme=prussian&show_icons=true&hide_border=true&layout=compact" width="500px">
