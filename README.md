@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard</h1>
-<h2 align="center">2nd yr Computer Engineering Student @ DVC</h2>
+<h2 align="center">2nd year Computer Engineering Student @ DVC</h2>
 <h2 align="center">Portfolio: https://irimpo.github.io/</h2>
 
 <h2 align="left">⚡Languages and Tools:</h2>
