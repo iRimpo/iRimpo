@@ -9,6 +9,3 @@
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iRimpo&theme=prussian&show_icons=true&hide_border=true&layout=compact" width="500px">
 
-[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=iRimpo)](https://github.com/iRimpo/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iRimpo&layout=compact)
