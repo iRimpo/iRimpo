@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Richard</h2>
-<h1 align="center">A Data Science Major at UC Berkeley</h1>
+<h1 align="center">Hi 👋, I'm Richard</h1>
+<h3 align="center">A Data Science Major at UC Berkeley</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irimpo&label=Profile%20views&color=0e75b6&style=flat" alt="irimpo" /> </p>
 
