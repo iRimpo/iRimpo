@@ -1,5 +1,7 @@
 <h1 align="left">Hey, I'm Richard! 👋</h1>
-<h3 align="left">A Data Science Major at UC Berkeley</h3>
+<p align="left">I'm a junior UC Berkeley majoring in Data Science. I am mainly interested in AI/Machine Learning and Product Management, but I love to look into other technologies as well! 
+
+Feel free to message me by DMs or email: richardazucenas@berkeley.edu</p>
 
 <h3 align="left">https://irimpo.github.io/</h3>
 
