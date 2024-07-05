@@ -1,4 +1,4 @@
-### Hey! I'm Richard <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hey, I'm Richard! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <p align="left">I'm a junior UC Berkeley majoring in Data Science. I am mainly interested in AI/Machine Learning and Product Management, but I love to look into other technologies as well! 
 
 Feel free to message me by DMs or email: richardazucenas@berkeley.edu</p>
