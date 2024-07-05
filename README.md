@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Richard</h1>
+<h1 align="center">Hey, I'm Richard! 👋</h1>
 <h3 align="center">A Data Science Major at UC Berkeley</h3>
 
 <h3 align="center">https://irimpo.github.io/</h3>
